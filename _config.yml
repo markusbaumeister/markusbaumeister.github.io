@@ -1,0 +1,11 @@
+# Site settings
+title: Personal homepage of Markus Baumeister
+email: baumeister@mathb.rwth-aachen.de
+description: > # this means to ignore newlines until "baseurl:"
+  This is the personal homepage of Markus Baumeister.
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://markusbaumeister.github.io/' # the base hostname & protocol for your site
+github_username: markusbaumeister
+
+# Build settings
+markdown: kramdown
