@@ -51,7 +51,7 @@ end;
 
 # The primes are chosen by uncommenting one of the following three lines
 # p := 2; pk := p^3;
- p := 3; pk := p^2;
+# p := 3; pk := p^2;
 # p := 5; pk := p^1;
 
 
